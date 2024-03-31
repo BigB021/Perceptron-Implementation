@@ -61,5 +61,5 @@ Distributed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License).
 
 Youssef Aitbouddroub - youssefaitbouddroub@gmail.com
 
- [Project Link:](https://github.com/BigB021/Perceptron-Implementation/edit/main/README.md)
+ [Project Link](https://github.com/BigB021/Perceptron-Implementation/edit/main/README.md)
 
